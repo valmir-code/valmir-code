@@ -21,4 +21,4 @@ Aprendo na prática — cada repositório fixado aqui nasceu de um dataset real,
 🔗 Análise de vendas da farmácia — Base de dados fictícia (CSV) simulando vendas de uma rede de farmácias, com tratamento e dashboard.
 
 📫 Contato
-<p align="left"> <a href="https://www.linkedin.com/in/www.linkedin.com/in/valmir-patrício" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/linkedin.com/in/valmir-patrício/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
